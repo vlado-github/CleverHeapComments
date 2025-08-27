@@ -1,2 +1,2 @@
-# CleverHeapComments
-Comments for CleverHeap blog
+# CleverHeap's Comments
+Comments for CleverHeap blog using GitHub's Discussion
